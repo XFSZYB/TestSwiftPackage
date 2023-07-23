@@ -1,0 +1,8 @@
+framework module "Libclash" {
+	header "ref.h"
+    header "GoClash.objc.h"
+    header "Universe.objc.h"
+    header "Libclash.h"
+
+    export *
+}
